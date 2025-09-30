@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-  background: url(https://i.imgur.com/KgwZiZg.png);
+  background: url(https://i.imgur.com/gFwaOa4.png);
   height: 598px;
   width: 806px;
   /*    margin-left: -403px;
@@ -199,7 +199,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
   position: absolute;
-  background: url(https://i.imgur.com/wbBNT6i.png);
+  background: url(https://i.imgur.com/A87YVgn.png);
   height: 94px;
   width: 94px;
 }
@@ -282,6 +282,7 @@ background-position: 0 -70px;
 
 
 /*END PS4 Controller Styling*/
+
 
 
 
